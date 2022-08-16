@@ -17,6 +17,8 @@
 
 		<!-- Mapping Resources -->
 		<mapping class="co.akash.hibernate.entity.Student" />
+		<mapping class="co.akash.hibernate.entity.Faculty"></mapping>
+		<mapping class="co.akash.hibernate.entity.Batch"></mapping>
 
 	</session-factory>
 </hibernate-configuration>
